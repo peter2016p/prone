@@ -1,0 +1,28 @@
+*{
+    background-color: white;
+}
+h1{
+text-align: center;
+
+}
+
+img{
+    width: 70vw;
+    height: 89vh;
+}
+.pages,.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+
+}
+.page{
+width: 50vw;
+}
+footer{
+    width: 100vw;
+    background-color: antiquewhite;
+    text-align: center;
+}
